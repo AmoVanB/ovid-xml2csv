@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes" ?>
+<!-- <!DOCTYPE ovidresults SYSTEM "http://www.ovid.com/dtds/ovidxmloutput.dtd"> -->
+<ovidresults>
+<records>
+<record index="3. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med3</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>2532779<T><BR /></T></D></F>
+<F C='ti' L='Title'><T><BR /></T><D type='c'>[Treatment by dissection of trigger zones of neuromyofibrosis and post-isomeric relaxation of patients with lumbar osteochondrosis syndromes].<T> [</T>Russian<T>]<BR /></T></D></F>
+<F C='ot' L='Original Title'><T><BR /></T><D type='c'>Lechenie issecheniem triggernykh zon neiromiofibroza i post- izometricheskoi relaksatsiei bo&#39;lnykh s sindromami poiasnichnogo osteokhondroza.<T><BR /></T></D></F>
+<F C='so' L='Source'><T><BR /></T><D type='c'>Revmatologiia<T>. (</T>3<T>)</T>66-9<T>, </T>1989 Jul-Sep<T>.<BR /></T></D></F>
+<F C='as' L='Abbreviated Source'><T><BR /></T><D type='c'>Revmatologiia (Mosk)<T>. (</T>3<T>)</T>66-9<T>, </T>1989 Jul-Sep<T>.<BR /></T></D></F>
+<F C='vi' L='Version ID'><T> </T><D type='c'>1<T><BR /></T></D></F>
+<F C='ro' L='Record Owner'><T><BR />From MEDLINE, a database of the U.S. National Library of Medicine.<BR /></T></F>
+<F C='st' L='Status'><T><BR /></T><D type='c'>MEDLINE<T><BR /></T></D></F>
+<F C='au' L='Authors'><T><BR /></T><D type='s'>Popelianskii IaIu</D><T>; </T><D type='s'>Khabirov FA</D><T>; </T><D type='s'>Khabirov RA</D><T>.<BR /></T></F>
+<F C='fa' L='Authors Full Name'><T><BR /></T><D type='s'>Popelianskii, Ia Iu</D><T>; </T><D type='s'>Khabirov, F A</D><T>; </T><D type='s'>Khabirov, R A</D><T>.<BR /></T></F>
+<F C='nj' L='NLM Journal Name'><T><BR /></T><D type='c'>Revmatologiia (Moscow, Russia)<T><BR /></T></D></F>
+<F C='pi' L='Publishing Model'><T><BR /></T><D type='s'>Journal available in: Print</D><T><BR /> </T><D type='s'>Citation processed from: Print</D><T><BR /></T></F>
+<F C='jc' L='NLM Journal Code'><T><BR /></T><D type='s'>svy</D><T>, </T><D type='s'>8309921</D><T><BR /></T></F>
+<F C='io' L='ISO Journal Abbreviation'><T><BR /></T><D type='c'>Revmatologiia (Mosk)<T><BR /></T></D></F>
+<F C='sb' L='Journal Subset'><T><BR /></T><D type='c'>Index Medicus<T><BR /></T></D></F>
+<F C='cp' L='Country of Publication'><T><BR /></T><D type='c'>Russia (Federation)<T><BR /></T></D></F>
+<F C='sh' L='MeSH Subject Headings'><T><BR />   </T><D type='s'>Adolescent</D><T><BR />   </T><D type='s'>Adult</D><T><BR />   </T><D type='s'>Back Pain/et [Etiology]</D><T><BR />   </T><D type='s'>*Back Pain/th [Therapy]</D><T><BR />   </T><D type='s'>Combined Modality Therapy</D><T><BR />   </T><D type='s'>*Exercise Therapy</D><T><BR />   </T><D type='s'>Humans</D><T><BR />   </T><D type='s'>Isometric Contraction</D><T><BR />   </T><D type='s'>*Lumbar Vertebrae</D><T><BR />   </T><D type='s'>Male</D><T><BR />   </T><D type='s'>Middle Aged</D><T><BR />   </T><D type='s'>*Muscle Denervation</D><T><BR />   </T><D type='s'>Muscular Dystrophies/et [Etiology]</D><T><BR />   </T><D type='s'>*Muscular Dystrophies/th [Therapy]</D><T><BR />   </T><D type='s'>*Osteochondritis/co [Complications]</D><T><BR /></T></F>
+<F C='is' L='ISSN Print'><T><BR /></T><D type='c'>0233-7029<T><BR /></T></D></F>
+<F C='pt' L='Publication Type'><T><BR /></T><D type='s'>Case Reports</D><T>. </T><D type='s'>Journal Article</D><T>.<BR /></T></F>
+<F C='pp' L='Publication Status'><T><BR /></T><D type='c'>ppublish<T><BR /></T></D></F>
+<F C='lg' L='Language'><T><BR /></T><D type='c'>Russian<T><BR /></T></D></F>
+<F C='dp' L='Date of Publication'><T><BR /></T><D type='c'>1989 Jul-Sep<T><BR /></T></D></F>
+<F C='ez' L='Entrez Date'><T><BR /></T><D type='c'>1989/07/01<T><BR /></T></D></F>
+<F C='da' L='MeSH Date'><T><BR /></T><D type='c'>1989/07/01 00:01<T><BR /></T></D></F>
+<F C='dt' L='Create Date'><T><BR /></T><D type='c'>1989/07/01 00:00<T><BR /></T></D></F>
+<F C='yr' L='Year of Publication'><T><BR /></T><D type='c'>1989<T><BR /></T></D></F>
+<F C='ed' L='Entry Date'><T><BR /></T><D type='c'>19900213<T><BR /></T></D></F>
+<F C='rd' L='Revision Date'><T><BR /></T><D type='c'>20041117<T><BR /></T></D></F>
+<F C='up' L='Update Date'><T><BR /></T><D type='c'>20191216<T><BR /></T></D></F>
+<F C='link' L='Link to the Ovid Full Text or citation'><T>http://ovidsp.ovid.com/ovidweb.cgi?T=JS&#38;CSC=Y&#38;NEWS=N&#38;PAGE=fulltext&#38;D=med3&#38;AN=2532779</T></F>
+<F C='link' L='Link to the External Link Resolver'><T>https://explore.lib.uliege.be/openurl/32ULG_INST/32ULG_INST:ULIEGE?tabs=viewOnlineTab&#38;sid=OVID:medline&#38;id=pmid:2532779&#38;id=doi:&#38;issn=0233-7029&#38;isbn=&#38;volume=&#38;issue=3&#38;spage=66&#38;pages=66-9&#38;date=1989&#38;title=Revmatologiia&#38;atitle=Lechenie+issecheniem+triggernykh+zon+neiromiofibroza+i+post-+izometricheskoi+relaksatsiei+bo%27lnykh+s+sindromami+poiasnichnogo+osteokhondroza.&#38;aulast=Popelianskii&#38;pid=%3Cauthor%3EPopelianskii+IaIu%3BKhabirov+FA%3BKhabirov+RA%3C%2Fauthor%3E%3CAN%3E2532779%3C%2FAN%3E%3CDT%3ECase+Reports%3C%2FDT%3E</T></F>
+</record>
+</records>
+
+</ovidresults>
+

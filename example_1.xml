@@ -1,0 +1,89 @@
+<?xml version="1.0" standalone="yes" ?>
+<!-- <!DOCTYPE ovidresults SYSTEM "http://www.ovid.com/dtds/ovidxmloutput.dtd"> -->
+<ovidresults>
+<records>
+<record index="1. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med9</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>22784801<T><BR /></T></D></F>
+<F C='ti' L='Title'><T><BR /></T><D type='c'>Increased intramuscular fatty infiltration without differences in lumbar muscle cross-sectional area during remission of unilateral recurrent low back pain.<T><BR /></T></D></F>
+<F C='so' L='Source'><T><BR /></T><D type='c'>Manual Therapy<T>. </T>17<T>(</T>6<T>):</T>584-8<T>, </T>2012 Dec<T>.<BR /></T></D></F>
+<F C='as' L='Abbreviated Source'><T><BR /></T><D type='c'>Manual Ther<T>. </T>17<T>(</T>6<T>):</T>584-8<T>, </T>2012 Dec<T>.<BR /></T></D></F>
+<F C='vi' L='Version ID'><T> </T><D type='c'>1<T><BR /></T></D></F>
+<F C='ro' L='Record Owner'><T><BR />From MEDLINE, a database of the U.S. National Library of Medicine.<BR /></T></F>
+<F C='st' L='Status'><T><BR /></T><D type='c'>MEDLINE<T><BR /></T></D></F>
+<F C='au' L='Authors'><T><BR /></T><D type='s'>D&#39;hooge R</D><T>; </T><D type='s'>Cagnie B</D><T>; </T><D type='s'>Crombez G</D><T>; </T><D type='s'>Vanderstraeten G</D><T>; </T><D type='s'>Dolphens M</D><T>; </T><D type='s'>Danneels L</D><T>.<BR /></T></F>
+<F C='fa' L='Authors Full Name'><T><BR /></T><D type='s'>D&#39;hooge, Roseline</D><T>; </T><D type='s'>Cagnie, Barbara</D><T>; </T><D type='s'>Crombez, Geert</D><T>; </T><D type='s'>Vanderstraeten, Guy</D><T>; </T><D type='s'>Dolphens, Mieke</D><T>; </T><D type='s'>Danneels, Lieven</D><T>.<BR /></T></F>
+<F C='in' L='Institution'><T><BR /></T><D type='c'>D&#39;hooge, Roseline. Department of Rehabilitation Sciences and Physiotherapy, Ghent University, 3B3, De Pintelaan 185, 9000 Ghent, Belgium. roseline.dhooge@ugent.be<T><BR /></T></D></F>
+<F C='nj' L='NLM Journal Name'><T><BR /></T><D type='c'>Manual therapy<T><BR /></T></D></F>
+<F C='pi' L='Publishing Model'><T><BR /></T><D type='s'>Journal available in: Print-Electronic</D><T><BR /> </T><D type='s'>Citation processed from: Internet</D><T><BR /></T></F>
+<F C='jc' L='NLM Journal Code'><T><BR /></T><D type='s'>9610924</D><T>, </T><D type='s'>dh3</D><T><BR /></T></F>
+<F C='io' L='ISO Journal Abbreviation'><T><BR /></T><D type='c'>Man Ther<T><BR /></T></D></F>
+<F C='sb' L='Journal Subset'><T><BR /></T><D type='c'>Index Medicus<T><BR /></T></D></F>
+<F C='cp' L='Country of Publication'><T><BR /></T><D type='c'>Scotland<T><BR /></T></D></F>
+<F C='sh' L='MeSH Subject Headings'><T><BR />   </T><D type='s'>Adult</D><T><BR />    </T><D type='s'>Female</D><T><BR />    </T><D type='s'>Humans</D><T><BR />    </T><D type='s'>*Low Back Pain/et [Etiology]</D><T><BR />    </T><D type='s'>*Low Back Pain/pp [Physiopathology]</D><T><BR />    </T><D type='s'>*Lumbar Vertebrae/pa [Pathology]</D><T><BR />    </T><D type='s'>*Lumbar Vertebrae/pp [Physiopathology]</D><T><BR />    </T><D type='s'>Magnetic Resonance Imaging</D><T><BR />    </T><D type='s'>Male</D><T><BR />    </T><D type='s'>*Muscular Atrophy, Spinal/co [Complications]</D><T><BR />    </T><D type='s'>*Muscular Atrophy, Spinal/di [Diagnosis]</D><T><BR />    </T><D type='s'>Muscular Atrophy, Spinal/pp [Physiopathology]</D><T><BR /></T></F>
+<F C='ab' L='Abstract'><T><BR /></T><D type='c'>Lumbar muscle degeneration is a common feature in non-specific low back pain (LBP). It is hypothesized that degenerated muscles might compromise spinal stability and lead to further injury/pain. However, little is known about lumbar muscle morphometry after resolution of LBP. Therefore, this study investigated the extent of lumbar muscle atrophy and fatty infiltration in individuals who are at risk for a recurrence of LBP. Thirteen participants in remission of unilateral recurrent LBP were compared to 13 healthy controls, comparable for age, weight, length and level of physical activity. Total, lean muscle and fat cross-sectional area (CSA) of lumbar multifidus (MF), erector spinae (ES) and psoas (PS) were investigated on T1-weighted Magnetic Resonance Imaging (MRI), bilaterally and at 3 lumbar levels (L3 upper, L4 upper and L4 lower endplate). In addition, a muscle-fat-index (MFI) was calculated reflecting the amount of fatty infiltration in lean muscle tissue. No significant differences for total, lean muscle and fat CSA were found between people in remission of recurrent LBP and the control group. Conversely, MFI was increased bilaterally at the 2 lowest lumbar levels. There were no differences between the previously painful and non-painful side of the LBP group for any of the parameters. These results show a generalized increase in intramuscular fatty infiltration in lean muscle tissue in the absence of macroscopical signs of muscle degeneration after resolution of LBP. These findings reflect a decreased muscle quality, but not quantity, and might indicate a pathophysiological mechanism contributing to recurrence of LBP. Copyright &#xa9; 2012 Elsevier Ltd. All rights reserved.<T><BR /></T></D></F>
+<F C='es' L='ISSN Electronic'><T><BR /></T><D type='c'>1532-2769<T><BR /></T></D></F>
+<F C='il' L='ISSN Linking'><T><BR /></T><D type='c'>1356-689X<T><BR /></T></D></F>
+<F C='di' L='Publisher Item Identifier'><T><BR /></T><D type='c'>S1356-689X(12)00148-8<T><BR /></T></D></F>
+<F C='do' L='Digital Object Identifier'><T><BR /></T><D type='c'>https://dx.doi.org/10.1016/j.math.2012.06.007<T><BR /></T></D></F>
+<F C='pt' L='Publication Type'><T><BR /></T><D type='s'>Journal Article</D><T>. </T><D type='s'>Research Support, Non-U.S. Gov&#39;t</D><T>.<BR /></T></F>
+<F C='id' L='Article Identifier'><T><BR /></T><D type='s'>S1356-689X(12)00148-8 [pii]</D><T><BR /> </T><D type='s'>10.1016/j.math.2012.06.007 [doi]</D><T><BR /></T></F>
+<F C='pp' L='Publication Status'><T><BR /></T><D type='c'>ppublish<T><BR /></T></D></F>
+<F C='ph' L='Publication History Status'><T><BR /></T><D type='s'>2012/03/19 [received]</D><T><BR /> </T><D type='s'>2012/06/07 [revised]</D><T><BR /> </T><D type='s'>2012/06/13 [accepted]</D><T><BR /></T></F>
+<F C='lg' L='Language'><T><BR /></T><D type='c'>English<T><BR /></T></D></F>
+<F C='ep' L='Electronic Date of Publication'><T><BR /></T><D type='c'>20120710<T><BR /></T></D></F>
+<F C='dp' L='Date of Publication'><T><BR /></T><D type='c'>2012 Dec<T><BR /></T></D></F>
+<F C='ez' L='Entrez Date'><T><BR /></T><D type='c'>2012/07/13 06:00<T><BR /></T></D></F>
+<F C='da' L='MeSH Date'><T><BR /></T><D type='c'>2013/12/18 06:00<T><BR /></T></D></F>
+<F C='dt' L='Create Date'><T><BR /></T><D type='c'>2012/07/13 06:00<T><BR /></T></D></F>
+<F C='yr' L='Year of Publication'><T><BR /></T><D type='c'>2012<T><BR /></T></D></F>
+<F C='ed' L='Entry Date'><T><BR /></T><D type='c'>20131213<T><BR /></T></D></F>
+<F C='rd' L='Revision Date'><T><BR /></T><D type='c'>20121019<T><BR /></T></D></F>
+<F C='up' L='Update Date'><T><BR /></T><D type='c'>20191216<T><BR /></T></D></F>
+<F C='link' L='Link to the Ovid Full Text or citation'><T>http://ovidsp.ovid.com/ovidweb.cgi?T=JS&#38;CSC=Y&#38;NEWS=N&#38;PAGE=fulltext&#38;D=med9&#38;AN=22784801</T></F>
+<F C='link' L='Link to the External Link Resolver'><T>https://explore.lib.uliege.be/openurl/32ULG_INST/32ULG_INST:ULIEGE?tabs=viewOnlineTab&#38;sid=OVID:medline&#38;id=pmid:22784801&#38;id=doi:10.1016%2Fj.math.2012.06.007&#38;issn=1356-689X&#38;isbn=&#38;volume=17&#38;issue=6&#38;spage=584&#38;pages=584-8&#38;date=2012&#38;title=Manual+Therapy&#38;atitle=Increased+intramuscular+fatty+infiltration+without+differences+in+lumbar+muscle+cross-sectional+area+during+remission+of+unilateral+recurrent+low+back+pain.&#38;aulast=D%27hooge&#38;pid=%3Cauthor%3ED%27hooge+R%3BCagnie+B%3BCrombez+G%3BVanderstraeten+G%3BDolphens+M%3BDanneels+L%3C%2Fauthor%3E%3CAN%3E22784801%3C%2FAN%3E%3CDT%3EJournal+Article%3C%2FDT%3E</T></F>
+</record>
+<record index="2. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med9</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>22732955<T><BR /></T></D></F>
+<F C='ti' L='Title'><T><BR /></T><D type='c'>[Enteral nutrition in neurological patients: is there enough vitamin D content in commonly used formulas?].<T> [Review] [</T>Spanish<T>]<BR /></T></D></F>
+<F C='ot' L='Original Title'><T><BR /></T><D type='c'>Nutricion enteral en el paciente neurologico: es suficiente el contenido en vitamina D en las formulas de uso habitual?<T><BR /></T></D></F>
+<F C='so' L='Source'><T><BR /></T><D type='c'>Nutricion Hospitalaria<T>. </T>27<T>(</T>2<T>):</T>341-8<T>, </T>2012 Mar-Apr<T>.<BR /></T></D></F>
+<F C='as' L='Abbreviated Source'><T><BR /></T><D type='c'>Nutr Hosp<T>. </T>27<T>(</T>2<T>):</T>341-8<T>, </T>2012 Mar-Apr<T>.<BR /></T></D></F>
+<F C='vi' L='Version ID'><T> </T><D type='c'>1<T><BR /></T></D></F>
+<F C='ro' L='Record Owner'><T><BR />From MEDLINE, a database of the U.S. National Library of Medicine.<BR /></T></F>
+<F C='st' L='Status'><T><BR /></T><D type='c'>MEDLINE<T><BR /></T></D></F>
+<F C='au' L='Authors'><T><BR /></T><D type='s'>Botella Romero F</D><T>; </T><D type='s'>Alfaro Martinez JJ</D><T>; </T><D type='s'>Luna Lopez V</D><T>; </T><D type='s'>Galicia Martin I</D><T>; </T><D type='s'>Grupo de Trabajo sobre Calcio y Vitamina D en Nutricion Enteral</D><T>.<BR /></T></F>
+<F C='fa' L='Authors Full Name'><T><BR /></T><D type='s'>Botella Romero, F</D><T>; </T><D type='s'>Alfaro Martinez, J J</D><T>; </T><D type='s'>Luna Lopez, V</D><T>; </T><D type='s'>Galicia Martin, I</D><T>; </T><D type='s'>Grupo de Trabajo sobre Calcio y Vitamina D en Nutricion Enteral</D><T>.<BR /></T></F>
+<F C='in' L='Institution'><T><BR /></T><D type='c'>Botella Romero, F. Servicio de Endocrinologia y Nutricion, Complejo Hospitalario Universitario de Albacete, Albacete, Espana. fbotellar@sescam.jccm.es<T><BR /></T></D></F>
+<F C='nj' L='NLM Journal Name'><T><BR /></T><D type='c'>Nutricion hospitalaria<T><BR /></T></D></F>
+<F C='pi' L='Publishing Model'><T><BR /></T><D type='s'>Journal available in: Print</D><T><BR /> </T><D type='s'>Citation processed from: Internet</D><T><BR /></T></F>
+<F C='jc' L='NLM Journal Code'><T><BR /></T><D type='s'>a2e</D><T>, </T><D type='s'>9100365</D><T><BR /></T></F>
+<F C='io' L='ISO Journal Abbreviation'><T><BR /></T><D type='c'>Nutr Hosp<T><BR /></T></D></F>
+<F C='sb' L='Journal Subset'><T><BR /></T><D type='c'>Index Medicus<T><BR /></T></D></F>
+<F C='cp' L='Country of Publication'><T><BR /></T><D type='c'>Spain<T><BR /></T></D></F>
+<F C='sh' L='MeSH Subject Headings'><T><BR />   </T><D type='s'>Aged</D><T><BR />   </T><D type='s'>Alzheimer Disease/th [Therapy]</D><T><BR />   </T><D type='s'>Amyotrophic Lateral Sclerosis/th [Therapy]</D><T><BR />   </T><D type='s'>*Enteral Nutrition</D><T><BR />   </T><D type='s'>Epilepsy/th [Therapy]</D><T><BR />   </T><D type='s'>Humans</D><T><BR />   </T><D type='s'>Multiple Sclerosis/th [Therapy]</D><T><BR />   </T><D type='s'>*Nervous System Diseases/th [Therapy]</D><T><BR />   </T><D type='s'>Nutrition Policy</D><T><BR />   </T><D type='s'>Parenteral Nutrition Solutions/ch [Chemistry]</D><T><BR />   </T><D type='s'>Parkinson Disease/th [Therapy]</D><T><BR />   </T><D type='s'>Spinocerebellar Degenerations/th [Therapy]</D><T><BR />   </T><D type='s'>Vitamin D/ad [Administration &#38; Dosage]</D><T><BR />   </T><D type='s'>*Vitamin D/tu [Therapeutic Use]</D><T><BR />   </T><D type='s'>Vitamins/ad [Administration &#38; Dosage]</D><T><BR />   </T><D type='s'>*Vitamins/tu [Therapeutic Use]</D><T><BR /></T></F>
+<F C='ab' L='Abstract'><T><BR /></T><D type='s'>INTRODUCTION: Vitamin D deficiency produces inadequate bone mineralization, proximal muscle weakness, abnormal gait and increased risk of falls and fractures. Moreover, in epidemiological studies, has been associated with increased risk of cancer, autoimmune diseases, type 1 and 2 diabetes, rheumatoid arthritis, multiple sclerosis, infectious diseases, cardiovascular diseases and depression. When synthesis through the skin by sun exposure is not possible and the patient can not eat by mouth, as in the advanced stages of various neurological diseases, the supply of vitamin D has to be done by enteral nutrition.</D><T><BR /><BR /> </T><D type='s'>OBJECTIVES: The aim of this study is to review the role of vitamin D in a common group of neurological conditions that often require artificial nutrition and analyze whether the vitamin D of different enteral nutrition formulas is adequate to meet the needs of this group of patients.</D><T><BR /><BR /> </T><D type='s'>RESULTS: Numerous studies have shown the association between vitamin D deficiency and increased incidence of dementia, stroke and other neurodegenerative diseases. Interventions aimed to increase levels of vit. D and its effects on functional (falls, pain, quality of life) and cardiovascular goals (cardiovascular death, stroke, myocardial infarction, cardiovascular risk factors) have obtained as highlight data a clear reduction of falls and fractures, while the evidence for the other parameters studied is still limited and inconsistent. The content of calcium and vitamin D of enteral formulas is legislated in our country. The total amount of vitamin D for a daily intake of 1,500-2,000 kcal ranges between 300 and 1,600 IU/d (mean +/- SD: 32.9 +/- 8.5 mg/100 kcal) in the complete formulas for enteral nutrition most commonly used. 50% of the diets studied, for an intake of 2,000 kcal/d, and 90% for an intake of 1,500 kcal/d, provide less than 600 IU/d of vitamin D.</D><T><BR /><BR /> </T><D type='s'>DISCUSSION: Some revised recently guidelines published recommendations of daily intake of vitamin D. The document published by the U.S. Institute of Medicine recommended for adults between 19 and 70 years, 600 IU/d and up from 70, proposes 800 IU/d of vitamin D. These amounts are deemed insufficient by other scientific societies to state that to achieve blood levels of 25 (OH) D equal or greater than 30 ng/ml may be required a daily intake of 1,500-2,000 IU and a number two or three times higher if previous deficiency exists.</D><T><BR /><BR /> </T><D type='s'>CONCLUSIONS: Further controlled studies are needed to ascertain which is the appropriate dose of vitamin D in advanced stages of neurological disease, where sun exposure is difficult and unlikely. We suggest that the vitamin D content should probably be reconsidered in enteral nutrition formulas, which, in light of recent publications appear as clearly insufficient for standard energy intakes (1,500-2,000 kcal).</D><T><BR /></T></F>
+<F C='rn' L='Registry Number/Name of Substance'><T><BR /></T><D type='s'>0 (Parenteral Nutrition Solutions)</D><T>. </T><D type='s'>0 (Vitamins)</D><T>. </T><D type='s'>1406-16-2 (Vitamin D)</D><T>.<BR /></T></F>
+<F C='es' L='ISSN Electronic'><T><BR /></T><D type='c'>1699-5198<T><BR /></T></D></F>
+<F C='il' L='ISSN Linking'><T><BR /></T><D type='c'>0212-1611<T><BR /></T></D></F>
+<F C='di' L='Publisher Item Identifier'><T><BR /></T><D type='c'>S0212-16112012000200003<T><BR /></T></D></F>
+<F C='do' L='Digital Object Identifier'><T><BR /></T><D type='c'>https://dx.doi.org/10.1590/S0212-16112012000200003<T><BR /></T></D></F>
+<F C='pt' L='Publication Type'><T><BR /></T><D type='s'>English Abstract</D><T>. </T><D type='s'>Journal Article</D><T>. </T><D type='s'>Review</D><T>.<BR /></T></F>
+<F C='id' L='Article Identifier'><T><BR /></T><D type='s'>S0212-16112012000200003 [pii]</D><T><BR /> </T><D type='s'>10.1590/S0212-16112012000200003 [doi]</D><T><BR /></T></F>
+<F C='pp' L='Publication Status'><T><BR /></T><D type='c'>ppublish<T><BR /></T></D></F>
+<F C='ph' L='Publication History Status'><T><BR /></T><D type='s'>2011/11/02 [received]</D><T><BR /> </T><D type='s'>2011/11/27 [accepted]</D><T><BR /></T></F>
+<F C='lg' L='Language'><T><BR /></T><D type='c'>Spanish<T><BR /></T></D></F>
+<F C='dp' L='Date of Publication'><T><BR /></T><D type='c'>2012 Mar-Apr<T><BR /></T></D></F>
+<F C='ez' L='Entrez Date'><T><BR /></T><D type='c'>2012/06/27 06:00<T><BR /></T></D></F>
+<F C='da' L='MeSH Date'><T><BR /></T><D type='c'>2012/11/14 06:00<T><BR /></T></D></F>
+<F C='dt' L='Create Date'><T><BR /></T><D type='c'>2012/06/27 06:00<T><BR /></T></D></F>
+<F C='yr' L='Year of Publication'><T><BR /></T><D type='c'>2012<T><BR /></T></D></F>
+<F C='ed' L='Entry Date'><T><BR /></T><D type='c'>20121113<T><BR /></T></D></F>
+<F C='rd' L='Revision Date'><T><BR /></T><D type='c'>20130702<T><BR /></T></D></F>
+<F C='up' L='Update Date'><T><BR /></T><D type='c'>20191216<T><BR /></T></D></F>
+<F C='link' L='Link to the Ovid Full Text or citation'><T>http://ovidsp.ovid.com/ovidweb.cgi?T=JS&#38;CSC=Y&#38;NEWS=N&#38;PAGE=fulltext&#38;D=med9&#38;AN=22732955</T></F>
+<F C='link' L='Link to the External Link Resolver'><T>https://explore.lib.uliege.be/openurl/32ULG_INST/32ULG_INST:ULIEGE?tabs=viewOnlineTab&#38;sid=OVID:medline&#38;id=pmid:22732955&#38;id=doi:10.1590%2FS0212-16112012000200003&#38;issn=0212-1611&#38;isbn=&#38;volume=27&#38;issue=2&#38;spage=341&#38;pages=341-8&#38;date=2012&#38;title=Nutricion+Hospitalaria&#38;atitle=Nutricion+enteral+en+el+paciente+neurologico%3A+es+suficiente+el+contenido+en+vitamina+D+en+las+formulas+de+uso+habitual%3F&#38;aulast=Botella+Romero&#38;pid=%3Cauthor%3EBotella+Romero+F%3BAlfaro+Martinez+JJ%3BLuna+Lopez+V%3BGalicia+Martin+I%3BGrupo+de+Trabajo+sobre+Calcio+y+Vitamina+D+en+Nutricion+Enteral%3C%2Fauthor%3E%3CAN%3E22732955%3C%2FAN%3E%3CDT%3EEnglish+Abstract%3C%2FDT%3E</T></F>
+</record>
+</records>
+
+</ovidresults>
+
